@@ -3,11 +3,9 @@ Hacker News
 
 ![Screenshot of the app](http://i.imgur.com/XxS04KP.png)
 
-An open source Hacker News client for Android phones & tablets.
+An open source Hacker News client for Android phones & tablets. 
 
-![Get it on Google Play!](https://developer.android.com/images/brand/en_generic_rgb_wo_60.png)
-
-[Available on the Google Play Store](https://play.google.com/store/apps/details?id=com.airlocksoftware.hackernews)
+This fork of Hacker News adds 'Read later' functionality and story caching. Since I don't always have a solid network connection when I have downtime, caching captivating stories and comments beforehand is a valuable feature.
 
 # How to build
 
